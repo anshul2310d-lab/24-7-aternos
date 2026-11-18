@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": " Badmoshgng.aternos.me",
+    "ip": "Badmoshgng.aternos.me",
     "port": 55877,
-    "version": "26.3",
+    "version": "",
     "try-creative": false
   },
   "position": {
